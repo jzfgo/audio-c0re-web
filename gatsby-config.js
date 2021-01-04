@@ -5,6 +5,7 @@ require('dotenv').config({
 module.exports = {
   siteMetadata: {
     title: 'AudioC0RE Web',
+    siteUrl: 'https://suspicious-johnson-6a621a.netlify.app',
   },
   plugins: [
     {
